@@ -1,0 +1,21 @@
+{
+  "serverPort": 3000,
+  "MaxRecentActivity": 100,
+  "mqttServerUrl": "tcp://X.X.X.X:1883",
+  "devices": [
+    { "topic" : "home/tuya/office",
+      "device": {
+        "id": "",
+        "key": "",
+        "ip": ""
+      }
+    },
+    { "topic" : "home/tuya/switch1",
+      "device": {
+        "id": "",
+        "key": "",
+        "ip": ""
+      }
+    }
+  ]
+}
